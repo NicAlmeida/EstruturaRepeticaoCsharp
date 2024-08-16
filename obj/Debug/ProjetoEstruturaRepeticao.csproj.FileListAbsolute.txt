@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\ProjetoEstruturaRepeticao\bin\Debug\ProjetoEstruturaRepeticao.exe.config
+C:\Users\Aluno\source\repos\ProjetoEstruturaRepeticao\bin\Debug\ProjetoEstruturaRepeticao.exe
+C:\Users\Aluno\source\repos\ProjetoEstruturaRepeticao\bin\Debug\ProjetoEstruturaRepeticao.pdb
+C:\Users\Aluno\source\repos\ProjetoEstruturaRepeticao\obj\Debug\ProjetoEstruturaRepeticao.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ProjetoEstruturaRepeticao\obj\Debug\ProjetoEstruturaRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ProjetoEstruturaRepeticao\obj\Debug\ProjetoEstruturaRepeticao.exe
+C:\Users\Aluno\source\repos\ProjetoEstruturaRepeticao\obj\Debug\ProjetoEstruturaRepeticao.pdb
+D:\Nicolly\csharp\ProjetoEstruturaRepeticao\bin\Debug\ProjetoEstruturaRepeticao.exe.config
+D:\Nicolly\csharp\ProjetoEstruturaRepeticao\bin\Debug\ProjetoEstruturaRepeticao.exe
+D:\Nicolly\csharp\ProjetoEstruturaRepeticao\bin\Debug\ProjetoEstruturaRepeticao.pdb
+D:\Nicolly\csharp\ProjetoEstruturaRepeticao\obj\Debug\ProjetoEstruturaRepeticao.csproj.AssemblyReference.cache
+D:\Nicolly\csharp\ProjetoEstruturaRepeticao\obj\Debug\ProjetoEstruturaRepeticao.csproj.CoreCompileInputs.cache
+D:\Nicolly\csharp\ProjetoEstruturaRepeticao\obj\Debug\ProjetoEstruturaRepeticao.exe
+D:\Nicolly\csharp\ProjetoEstruturaRepeticao\obj\Debug\ProjetoEstruturaRepeticao.pdb

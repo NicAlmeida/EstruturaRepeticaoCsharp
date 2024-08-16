@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nicolly\\csharp\\ProjetoEstruturaRepeticao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B12C6A-5051-46DE-83F2-57CBD21C3A28}|ProjetoEstruturaRepeticao.csproj|d:\\nicolly\\csharp\\projetoestruturarepeticao\\whileex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B12C6A-5051-46DE-83F2-57CBD21C3A28}|ProjetoEstruturaRepeticao.csproj|solutionrelative:whileex4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B12C6A-5051-46DE-83F2-57CBD21C3A28}|ProjetoEstruturaRepeticao.csproj|D:\\Nicolly\\csharp\\ProjetoEstruturaRepeticao\\whileex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B12C6A-5051-46DE-83F2-57CBD21C3A28}|ProjetoEstruturaRepeticao.csproj|solutionrelative:whileex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B12C6A-5051-46DE-83F2-57CBD21C3A28}|ProjetoEstruturaRepeticao.csproj|D:\\Nicolly\\csharp\\ProjetoEstruturaRepeticao\\whileex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B12C6A-5051-46DE-83F2-57CBD21C3A28}|ProjetoEstruturaRepeticao.csproj|solutionrelative:whileex3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B12C6A-5051-46DE-83F2-57CBD21C3A28}|ProjetoEstruturaRepeticao.csproj|D:\\Nicolly\\csharp\\ProjetoEstruturaRepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B12C6A-5051-46DE-83F2-57CBD21C3A28}|ProjetoEstruturaRepeticao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B12C6A-5051-46DE-83F2-57CBD21C3A28}|ProjetoEstruturaRepeticao.csproj|d:\\nicolly\\csharp\\projetoestruturarepeticao\\whileex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B12C6A-5051-46DE-83F2-57CBD21C3A28}|ProjetoEstruturaRepeticao.csproj|solutionrelative:whileex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WhileEx4.cs",
+              "DocumentMoniker": "D:\\Nicolly\\csharp\\ProjetoEstruturaRepeticao\\WhileEx4.cs",
+              "RelativeDocumentMoniker": "WhileEx4.cs",
+              "ToolTip": "D:\\Nicolly\\csharp\\ProjetoEstruturaRepeticao\\WhileEx4.cs",
+              "RelativeToolTip": "WhileEx4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:50:03.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WhileEx1.cs",
+              "DocumentMoniker": "D:\\Nicolly\\csharp\\ProjetoEstruturaRepeticao\\WhileEx1.cs",
+              "RelativeDocumentMoniker": "WhileEx1.cs",
+              "ToolTip": "D:\\Nicolly\\csharp\\ProjetoEstruturaRepeticao\\WhileEx1.cs",
+              "RelativeToolTip": "WhileEx1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:04:47.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WhileEx2.cs",
+              "DocumentMoniker": "D:\\Nicolly\\csharp\\ProjetoEstruturaRepeticao\\WhileEx2.cs",
+              "RelativeDocumentMoniker": "WhileEx2.cs",
+              "ToolTip": "D:\\Nicolly\\csharp\\ProjetoEstruturaRepeticao\\WhileEx2.cs",
+              "RelativeToolTip": "WhileEx2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:03:09.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WhileEx3.cs",
+              "DocumentMoniker": "D:\\Nicolly\\csharp\\ProjetoEstruturaRepeticao\\WhileEx3.cs",
+              "RelativeDocumentMoniker": "WhileEx3.cs",
+              "ToolTip": "D:\\Nicolly\\csharp\\ProjetoEstruturaRepeticao\\WhileEx3.cs",
+              "RelativeToolTip": "WhileEx3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:00:24.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nicolly\\csharp\\ProjetoEstruturaRepeticao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Nicolly\\csharp\\ProjetoEstruturaRepeticao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:06:12.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
